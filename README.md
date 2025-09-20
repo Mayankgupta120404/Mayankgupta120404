@@ -17,6 +17,13 @@ const mayank = {
 };
 ```
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mayankgupta120404&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayankgupta120404&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankgupta120404&theme=react-dark&area=true&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayankgupta120404&show_icons=true&theme=tokyonight&hide_border=true" style="width:48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankgupta120404&theme=react-dark&area=true&hide_border=true" style="width:100%" />
+</p>
+
 <div align="center"> <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,react,nodejs,nextjs,html,css,tailwind,bootstrap,postgres,mongodb,mysql,git,figma,postman,tensorflow,pytorch,sklearn,docker,aws,azure,opencv" /> </div>
 <p align="center" style="font-style: italic; color: #999;"> "Code. Analyze. Build. Repeat. 🚀" </p>
