@@ -12,7 +12,7 @@
 const mayank = {
   pronouns: "he/him",
   code: ["Python", "SQL", "C", "C++", "JavaScript"],
-  tools: ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "PyTorch", "React", "Node.js", "MySQL", "MongoDB"],
+  tools: ["Pandas", "NumPy", "Scikit-learn", "Data visualization", "PyTorch", "Matplotib", "Node.js", "MySQL", "MongoDB"],
   currentFocus: "Data Science • AI/ML • Analytics Projects",
 };
 ```
