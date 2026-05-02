@@ -11,7 +11,7 @@
 ```ts
 const mayank = {
   pronouns: "he/him",
-  code: ["Python", "SQL", "C", "C++", "JavaScript"],
+  code: ["Python", "SQL", "C", "C++", "Java"],
   tools: ["Pandas", "NumPy", "Scikit-learn", "Data visualization", "PyTorch", "Matplotib", "Node.js", "MySQL", "MongoDB"],
   currentFocus: "Data Science • AI/ML • Analytics Projects",
 };
