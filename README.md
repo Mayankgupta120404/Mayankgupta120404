@@ -17,13 +17,11 @@ const mayank = {
 };
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayankgupta120404&show_icons=true&theme=tokyonight&hide_border=true" style="width:48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankgupta120404&theme=react-dark&area=true&hide_border=true" style="width:100%" />
 </p>
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=py,cpp,java,js,react,nodejs,html,css,fastapi,mongodb,mysql,git,figma,postman,tensorflow,pytorch,sklearn,docker,aws,opencv,pandas,numpy" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=py,cpp,java,react,nodejs,html,css,fastapi,mongodb,mysql,git,figma,postman,tensorflow,pytorch,sklearn,docker,aws,opencv,pandas,numpy" /> </div>
 <p align="center" style="font-style: italic; color: #999;"> "Code. Analyze. Build. Repeat. 🚀" </p>
