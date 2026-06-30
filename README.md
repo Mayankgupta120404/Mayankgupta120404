@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm MAYANK GUPTA</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&width=600&lines=Electrical%20Engineer%20%EF%B8%8F;Data%20%26%20Analytics%20Enthusiast%20%F0%9F%93%8A;AI%20%7C%20ML%20%7C%20Visualization%20%7C%20Systems%20%F0%9F%A7%A0;Tech%20x%20Finance%20%F0%9F%92%B9;NSUT'27%20%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&width=600&lines=Electrical%20Engineer%20%EF%B8%8F;Data%20%26%20Analytics%20Enthusiast%20%F0%9F%93%8A;AI%20%7C%20ML%20%7C%20Visualization%20%7C%20Systems%20%F0%9F%A7%A0;Tech%20x%20Finance%20%F0%9F%92%B9" alt="Typing SVG" />
 </p>
 
 ---
