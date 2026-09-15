@@ -12,7 +12,7 @@
 const mayank = {
   pronouns: "he/him",
   code: ["Python", "SQL", "C", "C++", "Java"],
-  tools: ["Pandas", "NumPy", "Scikit-learn", "Data visualization", "PyTorch", "Matplotib", "Node.js", "MySQL", "MongoDB"],
+  tools: ["Pandas", "NumPy", "Data visualization", "Matplotib", "MySQL"],
   currentFocus: "Data Science • AI/ML • Analytics Projects",
 };
 ```
@@ -23,5 +23,5 @@ const mayank = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankgupta120404&theme=react-dark&area=true&hide_border=true" style="width:100%" />
 </p>
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=py,cpp,java,fastapi,mysql,git,figma,postman,tensorflow,pytorch,sklearn,docker,aws,opencv,pandas,numpy,matplotlib," /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=py,cpp,java,fastapi,mysql,git,figma,postman,pandas,numpy,matplotlib," /> </div>
 <p align="center" style="font-style: italic; color: #999;"> "Code. Analyze. Build. Repeat. 🚀" </p>
